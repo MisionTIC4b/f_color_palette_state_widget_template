@@ -2,4 +2,4 @@
 
 Proyecto con Widgets con estado con varias paletas de colores que cambia el Theme de la aplicación
 
-![Screenshot_1652455503](https://user-images.githubusercontent.com/4458129/168316061-f40bf235-c30d-4bb7-b8e3-e3b28bc9c0f1.png)
+<img src="https://user-images.githubusercontent.com/4458129/169329344-74b1711e-1763-4ded-8456-76abf5b09b56.gif" width="300" />
